@@ -9,7 +9,7 @@ This project has a SQL file that creates and manages a database for tracking ani
   - Solve all assignment questions
 
 ## 🐘 Database: PostgreSQL
-This project is made for PostgreSQL. You can run it using pgAdmin or the PostgreSQL terminal (psql).
+This project is made for PostgreSQL. 
 
 ## ✅ What’s Included:
 - Creating tables with primary and foreign keys
